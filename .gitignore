@@ -1,0 +1,46 @@
+# === Build artifacts (vboxsf can't unlink these; clean from host side) ===
+*.o
+*.d
+*.o-*
+core
+core.*
+*.core
+
+# === Compiled binaries ===
+proj
+test_sha256
+
+# === Runtime logs ===
+output.txt
+trace.txt
+
+# === IDE folders ===
+.idea/
+.vscode/
+*.suo
+*.user
+*.workspace
+*.project
+
+# === OS junk ===
+.DS_Store
+__MACOSX/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Environment / secrets (never commit real values) ===
+.env
+*.env.local
+secrets.yaml
+secrets.json
+
+# === Backup / temp files ===
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
+.bak_*/
+*_preview.png
+*_final.png
