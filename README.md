@@ -68,6 +68,9 @@ lcom_run proj analyze
 ```
 
 ---
+## Demo
+
+[![gameplay demo](https://img.youtube.com/vi/itVfpVGUh0E/maxresdefault.jpg)](https://youtu.be/itVfpVGUh0E)
 
 ## The Game
 
