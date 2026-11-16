@@ -158,7 +158,7 @@ EntropyAggregatorBlackJack/
 |---|---|
 | Course | LCOM — Laboratory of Computers |
 | Institution | FEUP — Faculdade de Engenharia da Universidade do Porto |
-| Year | 2024/2025 |
+| Year | 2025/2026 |
 | Author | Bruno Freitas |
 
 ---
